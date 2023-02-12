@@ -18,6 +18,6 @@ void setup() {
 void loop() {
   LoRa.beginPacket();
   LoRa.print("S");
+  //delay(2000);
   LoRa.endPacket();
-  delay(5000);
 }
