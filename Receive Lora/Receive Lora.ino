@@ -1,3 +1,4 @@
+//รวม libraries 
 #include <SPI.h>
 #include <LoRa.h>  //https://github.com/sandeepmistry/arduino-LoRa
 
